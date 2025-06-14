@@ -9,7 +9,6 @@
     "GuiIngameMenuMixin",
     "GuiInGameMixin",
     "GuiMainMenuMixin",
-    "GuiScreenMixin",
     "ItemRendererMixin",
     "MinecraftMixin",
     "ModelBipedMixin",
@@ -17,7 +16,6 @@
     "RenderMixin"
   ],
   "mixins": [
-    "GuiUtilsMixin",
     "InventoryPlayerMixin",
     "WorldMixin"
   ]
