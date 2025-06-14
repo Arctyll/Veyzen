@@ -1,4 +1,4 @@
-![Logo](/screenshots/Logo.png)
+![logo](logo.png)
 
 # Veyzen Client
 Veyzen Client is an open source Minecraft PVP Client for 1.8.9 using the Forge API.
